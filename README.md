@@ -1,0 +1,1 @@
+# BBS02 configuration
